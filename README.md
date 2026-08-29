@@ -1,4 +1,4 @@
 # spam_detector
-Auther-Sagar
+Auther-Sagar Reddy
 <br>
 Twitter Spam detection
